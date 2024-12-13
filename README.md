@@ -16,6 +16,7 @@ The animation is created with:
 
     ```bash
     pip install manim
+    pip install numpy
     ```
 
 - Download and install [FFmpeg](https://ffmpeg.org/download.html). Ensure the directory containing `ffmpeg.exe` is added to your **System Environment Variables**.
