@@ -1,0 +1,16 @@
+media/
+
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# Ignore IDE settings
+.idea/
+.vscode/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
