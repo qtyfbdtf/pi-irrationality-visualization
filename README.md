@@ -45,7 +45,7 @@ The animation is created with:
     cd pi-irrationality-visualization
     ```
 
-2. Run the visualization:
+2. Run the visualization in the terminal:
     ```bash
     manim -pql main.py TwoRotatingRods
     ```
