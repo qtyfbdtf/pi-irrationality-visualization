@@ -12,7 +12,7 @@ The animation is created with:
 ## How to Run
 
 - Install Python 3.9 or later.
-- Install Manim:
+- Install Manim and numpy:
 
     ```bash
     pip install manim
